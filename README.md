@@ -3,7 +3,7 @@ iOS security researcher, wasd1030
 
 # Profile
 ## 2024~2025
-Incheon National University (INU) Department of Telecommunication Engineering
+Incheon National University (INU) Department of Information Telecommunication Engineering
 
 ## 2025~2026
 CSAT preparation during ROK ARMY service period
