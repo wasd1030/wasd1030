@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
+iOS security researcher, wasd1030
 
-<!--
-**wasd1030/wasd1030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Profile
+## 2024~2025
+Incheon National University (INU) Department of Telecommunication Engineering
 
-Here are some ideas to get you started:
+## 2025~2026
+CSAT preparation during ROK ARMY service period
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 2027~
+New university campus life (I hope to enter Konkuk University or Dongguk University)
+
+# Ongoing Projects
+## Reveil (iOS security App by Lessica)
