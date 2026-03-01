@@ -12,4 +12,4 @@ CSAT preparation during ROK ARMY service period
 New university campus life (I hope to enter Konkuk University or Dongguk University)
 
 # Ongoing Projects
-## Reveil (iOS security App by Lessica)
+## Reveil (iOS security App by Lessica) Korean localization
